@@ -1,0 +1,12 @@
+body {
+ margin: 0;
+ padding: 0;
+}
+
+section {
+ margin: 15rem auto;
+ height: 45rem;
+ width: 50%;
+ border-radius: 1rem;
+ background-color: orange;
+}
